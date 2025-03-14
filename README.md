@@ -15,5 +15,5 @@ Este proyecto ofrece un análisis interactivo del servicio de atención al clien
   - **Satisfacción Promedio**: 3.40  
   - **Tiempo de Espera Promedio**: 67 segundos
     ## **Archivo Power BI**  
-El archivo de Power BI con el análisis se encuentra en la carpeta [powerbi](powerbi/seguimiento_servicios.pbix).
+El archivo de Power BI con el análisis se encuentra en la carpeta [powerbi](powerbi/Dashboard Servicio de Atención al Cliente.pbix).
 
